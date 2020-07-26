@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - Languages: node.js, PHP, Python and Go, being this last one my main language as I've been working with it for the last 4 years.
 - gRPC
 
-### 📫 How to reach me:
+### How to reach me  📫 
 - Linkedin: https://www.linkedin.com/in/sredny/
 - Email: Sredny.buitrago@gmail.com
 - Twitter: https://twitter.com/SredXNY
