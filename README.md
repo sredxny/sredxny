@@ -1,4 +1,8 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEe3MCJftCdgA/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=_vGzUO_tXbqSr62S1P3PSm5TFrYmk56wrVoIrhhVxCg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi">
+
 ### Hi there 👋
+
+Software Engineer with experience in the development of Restful API's, microservices, analysis,design and development of Information's Systems. I love challenges, if I don't know how to solve something then I'll research to make it happen!. As a part of your team I will add passion for the work, experience in backend processes, and attention to details. Am a teamplayer
 
 <!--
 **sredxny/sredxny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
