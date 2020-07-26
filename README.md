@@ -20,9 +20,22 @@ Here are some ideas to get you started:
 -->
 
 ### About me :man:
-- :alien: Currently a Tykling
+- :alien: Currently a Tykling, learning everyday!
+- :relaxed: Mid-level backend dev
 - :books: I love to learn in the same way as teach
 - :hourglass: Interested in dive deeper in backend technologies, optimization of processes and algorithms.
 - :cloud: Starting to learn more about cloud computing, specifically AWS.
 - :mount_fuji: Love outdoors activities like hiking and running
 - :ramen: Love for asian food!
+
+### 📫 How to reach me:
+- Linkedin: https://www.linkedin.com/in/sredny/
+- Email: Sredny.buitrago@gmail.com
+- Twitter: https://twitter.com/SredXNY
+
+
+### Expertise's area
+- DB: mongoDB, PostgreSQL, MySQL, BoltDB
+- Redis
+- Languages: node.js, PHP, Python and Go, being this last one my main language as I've been working with it for the last 4 years.
+- gRPC
