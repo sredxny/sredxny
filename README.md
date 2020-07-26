@@ -28,14 +28,13 @@ Here are some ideas to get you started:
 - :mount_fuji: Love outdoors activities like hiking and running
 - :ramen: Love for asian food!
 
-### 📫 How to reach me:
-- Linkedin: https://www.linkedin.com/in/sredny/
-- Email: Sredny.buitrago@gmail.com
-- Twitter: https://twitter.com/SredXNY
-
-
 ### Expertise's area
 - DB: mongoDB, PostgreSQL, MySQL, BoltDB
 - Redis
 - Languages: node.js, PHP, Python and Go, being this last one my main language as I've been working with it for the last 4 years.
 - gRPC
+
+### 📫 How to reach me:
+- Linkedin: https://www.linkedin.com/in/sredny/
+- Email: Sredny.buitrago@gmail.com
+- Twitter: https://twitter.com/SredXNY
