@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - :cloud: Starting to learn more about cloud computing, specifically AWS.
 - :mount_fuji: Love outdoors activities like hiking and running
 - :ramen: Love for asian food!
+- :earth_americas: I speak english and spanish
 
 ### Expertise's area :mag:
 - DB: mongoDB, PostgreSQL, MySQL, BoltDB
