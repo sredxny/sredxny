@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - Redis
 - Languages: node.js, PHP, Python and Go, being this last one my main language as I've been working with it for the last 4 years.
 - gRPC
+- Docker
 - Authentication & Authorization protocols
 
 ### How to reach me  📫 
