@@ -4,6 +4,8 @@
 
 Software Engineer with experience in the development of Restful APIs, microservices, analysis,design and development of Information's Systems. I love challenges, if I don't know how to solve something then I'll research to make it happen!. As a part of your team I will add passion for the work, experience in backend processes, and attention to details. Am a teamplayer
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sredxny&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sredxny/sredxny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
