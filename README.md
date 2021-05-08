@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me :man:
-- :alien: Currently a Tykling, learning everyday! (tyk.io)
+- :alien: Currently a Tykling, learning everyday! (https://tyk.io)
 - :relaxed: Mid-level backend dev
 - :books: I love to learn in the same way as teach
 - :hourglass: Interested in dive deeper in backend technologies, optimization of processes and algorithms.
