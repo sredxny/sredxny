@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 
 ### About me :man:
 - :alien: Currently a Tykling, learning everyday! (https://tyk.io)
-- :relaxed: Mid-level backend dev
+- :relaxed: Senior backend dev
 - :books: I love to learn in the same way as teach
 - :hourglass: Interested in dive deeper in backend technologies, optimization of processes and algorithms.
-- :cloud: Starting to learn more about cloud computing, specifically AWS.
 - :mount_fuji: Love outdoors activities like hiking and running
 - :ramen: Love for asian food!
 - :earth_americas: I speak english and spanish
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 - gRPC
 - Docker
 - Authentication & Authorization protocols
+- Distributed systems
 
 ### How to reach me  📫 
 - Linkedin: https://www.linkedin.com/in/sredny/
