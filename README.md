@@ -21,15 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me :man:
-- :alien: Currently a Tykling, learning everyday! (https://tyk.io)
-- :relaxed: Senior backend dev
-- :books: I love to learn in the same way as teach
-- :hourglass: Interested in dive deeper in backend technologies, optimization of processes and algorithms.
-- :mount_fuji: Love outdoors activities like hiking and running
-- :ramen: Love for asian food!
-- :earth_americas: I speak english and spanish
-
 ### Expertise's area :mag:
 - DB: mongoDB, PostgreSQL, MySQL, BoltDB
 - Redis
@@ -42,4 +33,3 @@ Here are some ideas to get you started:
 ### How to reach me  📫 
 - Linkedin: https://www.linkedin.com/in/sredny/
 - Email: Sredny.buitrago@gmail.com
-- Twitter: https://twitter.com/SredXNY
